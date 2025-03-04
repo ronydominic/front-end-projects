@@ -1,0 +1,37 @@
+[
+    {
+        "id": 0,
+        "title": "Movie Project",
+        "desc": "Developed a movie management system using Spring Boot and MongoDB. Designed RESTful APIs for adding, retrieving, updating, and deleting movie data. Integrated Spring Data MongoDB for efficient NoSQL data handling.",
+        "technologiesUsed": ["Spring Boot", "MongoDB", "REST APIs"],
+        "url": "https://github.com/ronydominic"
+    },
+    {
+        "id": 1,
+        "title": "Student Management System",
+        "desc": "Developed a Student Management System using Java Collections (ArrayList) for data storage. Implemented features to add, update, delete, and search student records by roll number. Designed a menu-driven console interface for user interaction.",
+        "technologiesUsed": ["Java", "Object Oriented Programming"],
+        "url": "https://github.com/ronydominic/student-management-system"
+    },
+    {
+        "id": 2,
+        "title": "TutorTracker",
+        "desc": "Developed an Android app using Java and Firebase Realtime Database. Enables lecturers to manage appointments, schedules, and announcements with students. Provides real-time synchronization of data for efficient management of academic activities.",
+        "technologiesUsed": ["Android", "Java", "Firebase Realtime Database"],
+        "url": "https://github.com/ronydominic/TutorTracker"
+    },
+    {
+        "id": 3,
+        "title": "Pneumonia Detection System",
+        "desc": "Developed a deep learning-based pneumonia detection system using transfer learning with a pre-trained DenseNet-169 model, fine-tuned on lung X-ray images for accurate classification. Implemented using PyTorch for model development and Tkinter for GUI.",
+        "technologiesUsed": ["Python", "PyTorch", "Transfer Learning", "Tkinter"],
+        "url": "https://github.com/ronydominic/pneumonia_detection_system"
+    },
+    {
+        "id": 4,
+        "title": "Attendance using Face Recognition",
+        "desc": "Developed an attendance system using DeepFace library with the Facenet model for face recognition. Integrated OpenCV for video frame capture and real-time face recognition. Updated student attendance in the database and exported records to an Excel sheet.",
+        "technologiesUsed": ["Python", "DeepFace", "OpenCV"],
+        "url": "https://github.com/ronydominic/attendance_using_face_recognition"
+    }
+]
